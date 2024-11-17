@@ -1,0 +1,1 @@
+# min_noprime_harshad_primesum
